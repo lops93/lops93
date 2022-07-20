@@ -3,7 +3,7 @@
 <h5>Viviam Lopes</h5>
 
 <p>👩‍💻 Fullstack developer</p>
-<p>📈 Business Inteligence speacilist</p>
+<p>📈 Business Inteligence speacialist</p>
 <p>📐Web Designer </p>
 
 <h3>Skills</h3>
